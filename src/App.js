@@ -15,10 +15,10 @@ function App() {
   
     
       <ul className="social-icons">
-        <li><a href="#"><i className="fa fa-instagram"></i></a></li>
-        <li><a href="#"><i className="fa fa-twitter"></i></a></li>
-        <li><a href="#"><i className="fa fa-linkedin"></i></a></li>
-        <li><a href="#"><i className="fa fa-codepen"></i></a></li>
+        <li><a href="#"><i className="fab fa-instagram"></i></a></li>
+        <li><a href="#"><i className="fab fa-twitter"></i></a></li>
+        <li><a href="#"><i className="fab fa-linkedin"></i></a></li>
+        <li><a href="#"><i className="fab fa-codepen"></i></a></li>
       </ul>
      
   </div>
